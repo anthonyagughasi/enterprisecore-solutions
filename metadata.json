@@ -1,0 +1,9 @@
+
+{
+  "name": "EnterpriseCore Solutions",
+  "description": "A high-performance, enterprise-grade corporate platform featuring modular layouts, emerald-themed aesthetics, and 2026-forward architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
