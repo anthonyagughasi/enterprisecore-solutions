@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+**Live Demo**: [https://enterprisecore-solutions.vercel.app/]
 
-This contains everything you need to run your app locally.
+## 🚀 About
 
-View your app in AI Studio: https://ai.studio/apps/drive/1haoEH5wuAmOGqRowXSIhs9kLKNRUgZZU
+A B2B corporate/enterprise services landing page designed to attract business clients and generate leads
+Services/offerings list
+Benefits/value proposition
+Testimonials or case studies
+Contact/CTA forms
 
-## Run Locally
+## ✨ Key Features
 
-**Prerequisites:**  Node.js
+- **Sophisticated & Responsive Design** — Looks sharp on desktop, tablet, and mobile
+- **Clean Typography & Layout** — Focused on readability and professional feel
+- **Modular Components** — Reusable React components for easy maintenance
+- **Fast & Lightweight** — Built with Vite for quick loading times
+- **Type-Safe & Modern** — Developed with TypeScript for reliability
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Frontend**: React + TypeScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS / Custom Styles
+- **Structure**: Component-based (pages, services, constants)
+- **Deployment**: Ready for Vercel or Netlify
+
+## 🚀 Getting Started Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/anthonyagughasi/enterprisecore-solutions.git
+
+# Enter the project directory
+cd enterprisecore-solutions
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
